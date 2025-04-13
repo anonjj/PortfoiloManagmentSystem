@@ -15,11 +15,13 @@ progress, and explore categorized online courses. It features a clean GUI, datab
 integration with MySQL, and modular DAO classes for separation of logic.
 
 **3. Details of Development**
+
 **i. Methods/Techniques/Algorithm Used**
 The system uses the MVC design pattern with DAOs for data access and Swing for
 GUI. Event-driven programming is used for user interaction. SQL queries are used to
 perform CRUD operations. Leaderboard sorting and profile update mechanisms are
 also implemented.
+
 **ii. Tools/Software/Libraries Used**
 - Java (Swing)
 - MySQL
@@ -27,6 +29,7 @@ also implemented.
 - IntelliJ IDEA or Eclipse
 - MySQL Workbench
 - GitHub (for version control)
+  
 **iii. Data/Charts/Datasets Used**
 - Udemy course dataset
 - Mock question bank for various exams (stored in MySQL)
